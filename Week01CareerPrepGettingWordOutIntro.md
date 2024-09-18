@@ -10,7 +10,7 @@
 
 # Photo:
 
-# [image](IMG.jpg)
+# ![image](IMG.jpg)
 A photo of the guitar I mostly play, and my cat. 
 
 ## [My Resume](Resume.pdf) 
