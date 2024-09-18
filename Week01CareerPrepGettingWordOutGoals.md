@@ -20,4 +20,5 @@
 - However, I do not have the professional embedded systems programming experience that they require.
 
 # SMART Goals: 
-- 
+1. Goal from classmates: I am going to include more attributes that are unrelated to my application within my resume. This will be in an attempt to present myself as a person, rather than just resume data.
+2. Goal from job search: I am going to keep applying to jobs as usual. However, I am also going to apply to several internship level embedded systems jobs, so that I can have a chance to gain experience in that field.
